@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Ammar_App",
-    "slug": "Ammar_App",
-    "version": "1.0.0",
+    "name": "Ammar's_App",
+    "slug": "Ammar's_App",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
